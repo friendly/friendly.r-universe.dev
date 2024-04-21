@@ -1,0 +1,18 @@
+[
+  {
+    "package": "heplots",
+    "url": "https://github.com/friendly/heplots"
+  },
+  {
+    "package": "candisc",
+    "url": "https://github.com/friendly/candisc"
+  },
+  {
+    "package": "mvinfluence",
+    "url": "https://github.com/friendly/mvinfluence"
+  },
+  {
+    "package": "VisCollin",
+    "url": "https://github.com/friendly/VisCollin"
+  }
+]
