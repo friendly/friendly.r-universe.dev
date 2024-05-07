@@ -3,9 +3,14 @@ library(glue)
 
 base <- "https://github.com/friendly/"
 
-package <- c("heplots", "candisc", "mvinfluence", "VisCollin")
-# "genridge", "matlib", "HistData", "vcdExtra"
+package <- c("heplots", "candisc", "mvinfluence", "VisCollin",
+    "genridge", 
+    "matlib", 
+    "HistData", 
+    "vcdExtra"
+             )
 url <- glue("{base}{package}")
+
 df <- data.frame(package, url) |> print()
 
 

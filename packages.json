@@ -14,5 +14,21 @@
   {
     "package": "VisCollin",
     "url": "https://github.com/friendly/VisCollin"
+  },
+  {
+    "package": "genridge",
+    "url": "https://github.com/friendly/genridge"
+  },
+  {
+    "package": "matlib",
+    "url": "https://github.com/friendly/matlib"
+  },
+  {
+    "package": "HistData",
+    "url": "https://github.com/friendly/HistData"
+  },
+  {
+    "package": "vcdExtra",
+    "url": "https://github.com/friendly/vcdExtra"
   }
 ]
