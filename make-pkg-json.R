@@ -3,11 +3,17 @@ library(glue)
 
 base <- "https://github.com/friendly/"
 
-package <- c("heplots", "candisc", "mvinfluence", "VisCollin",
+package <- c("heplots", 
+    "candisc", 
+    "mvinfluence", 
+    "VisCollin",
     "genridge", 
     "matlib", 
     "HistData", 
-    "vcdExtra"
+    "vcdExtra",
+    "nestedLogit",
+    "ggbiplot"
+    "HistData", 
              )
 url <- glue("{base}{package}")
 

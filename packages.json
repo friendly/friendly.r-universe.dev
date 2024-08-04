@@ -30,5 +30,17 @@
   {
     "package": "vcdExtra",
     "url": "https://github.com/friendly/vcdExtra"
+  },
+  {
+    "package": "nestedLogit",
+    "url": "https://github.com/friendly/nestedLogit"
+  },
+  {
+    "package": "ggbiplot",
+    "url": "https://github.com/friendly/ggbiplot"
+  },
+  {
+    "package": "HistData",
+    "url": "https://github.com/friendly/HistData"
   }
 ]
