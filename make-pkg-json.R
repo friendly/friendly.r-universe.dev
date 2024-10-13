@@ -12,13 +12,18 @@ package <- c("heplots",
     "HistData", 
     "vcdExtra",
     "nestedLogit",
-    "ggbiplot"
-    "HistData", 
+    "ggbiplot",
+    "HistData",
+    "Guerry",
+    "WordPools"
              )
-url <- glue("{base}{package}")
+url <- glue::glue("{base}{package}")
 
 df <- data.frame(package, url) |> print()
 
+# add Lahman
+df <- rbind(df,
+            c("Lahman", "https://github.com/cdalzell/Lahman"))
 
 
 jsonlite::write_json(df, 'packages.json', pretty = TRUE)

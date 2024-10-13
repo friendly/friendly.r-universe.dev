@@ -42,5 +42,17 @@
   {
     "package": "HistData",
     "url": "https://github.com/friendly/HistData"
+  },
+  {
+    "package": "Guerry",
+    "url": "https://github.com/friendly/Guerry"
+  },
+  {
+    "package": "WordPools",
+    "url": "https://github.com/friendly/WordPools"
+  },
+  {
+    "package": "Lahman",
+    "url": "https://github.com/cdalzell/Lahman"
   }
 ]
