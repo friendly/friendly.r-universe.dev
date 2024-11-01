@@ -52,6 +52,10 @@
     "url": "https://github.com/friendly/WordPools"
   },
   {
+    "package": "twoway",
+    "url": "https://github.com/friendly/twoway"
+  },
+  {
     "package": "Lahman",
     "url": "https://github.com/cdalzell/Lahman"
   }

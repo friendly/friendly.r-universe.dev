@@ -15,7 +15,8 @@ package <- c("heplots",
     "ggbiplot",
     "HistData",
     "Guerry",
-    "WordPools"
+    "WordPools",
+    "twoway"
              )
 url <- glue::glue("{base}{package}")
 
