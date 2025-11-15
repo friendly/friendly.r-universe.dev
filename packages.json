@@ -60,6 +60,10 @@
     "url": "https://github.com/friendly/gellipsoid"
   },
   {
+    "package": "colorize",
+    "url": "https://github.com/friendly/colorize"
+  },
+  {
     "package": "Lahman",
     "url": "https://github.com/cdalzell/Lahman"
   }
