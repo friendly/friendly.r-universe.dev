@@ -64,6 +64,10 @@
     "url": "https://github.com/friendly/colorize"
   },
   {
+    "package": "ggCheysson",
+    "url": "https://github.com/friendly/ggCheysson"
+  },
+  {
     "package": "Lahman",
     "url": "https://github.com/cdalzell/Lahman"
   }

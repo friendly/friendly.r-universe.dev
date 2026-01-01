@@ -18,7 +18,8 @@ package <- c("heplots",
     "WordPools",
     "twoway",
     "gellipsoid",
-    "colorize"
+    "colorize",
+    "ggCheysson"
              )
 url <- glue::glue("{base}{package}")
 
