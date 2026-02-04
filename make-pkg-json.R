@@ -19,7 +19,8 @@ package <- c("heplots",
     "twoway",
     "gellipsoid",
     "colorize",
-    "ggCheysson"
+    "ggCheysson",
+    "CASIdata"
              )
 url <- glue::glue("{base}{package}")
 

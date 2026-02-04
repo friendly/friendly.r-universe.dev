@@ -68,6 +68,10 @@
     "url": "https://github.com/friendly/ggCheysson"
   },
   {
+    "package": "CASIdata",
+    "url": "https://github.com/friendly/CASIdata"
+  },
+  {
     "package": "Lahman",
     "url": "https://github.com/cdalzell/Lahman"
   }
